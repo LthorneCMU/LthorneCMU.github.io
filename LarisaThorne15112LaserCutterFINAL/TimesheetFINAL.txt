@@ -1,0 +1,92 @@
+Term Project: Laser Cutter
+Larisa Thorne (lthorne), Section A
+
+#####################################################
+#####################################################
+
+Time assembling hardware:
+	Robotics hackathon in Oct
+	Other days
+	***FILL THIS IN***
+
+2015-11-17: 2 hours
+2015-11-18: 45 minutes
+	Finished LaserCutter1.py!
+2015-11-19: 2.5 hours
+	Finished LaserCutter2.py
+	Finished documentation, v1
+2015-11-20: 1.5 hours
+	Finished LaserCutter3.py
+2014-11-21: 4 hours
+2014-11-22: start 11:30am - 8:00pm (9.5 hours)
+	Finished testSerial.py
+	Finished testSerial2.py
+	Finished documentation, v2
+2015-11-23: 1.5 hr in morning, 4:30pm - 7pm (5 hours)
+	Stepper motor test successful
+	Finished documentation, v3. Printed.
+
+DELIVERABLE 1:###################################
+	SUBTOTAL: ~25 hours + time assembling hardware
+######################################################
+2015-11-23: 9:00pm - 11:30pm = 2.5 hours
+
+2015-11-25: 1.5 hours
+
+2015-11-28: 2 hours
+
+2015-11-29: 4 hours
+	Finished LaserCutter7.py
+
+2015-11-30: 2.5 hours + 2 hours + (7pm - 11pm = 4 hours)
+	Finished basic XY table setup (no wiring, stop switches)
+	Finished testSerial3.py: can move servo with serial
+	Finished LaserCutter8.py
+	Finished LaserCutter9.py
+	Updated documentation
+
+2015-12-01: 2 hours
+
+2015-12-02: 9am - 1:30pm: 4.5 hours
+	Finished LaserCutter10.py
+	Got X component moving! (See video)
+
+DELIVERABLE 2:###################################
+	SUBTOTAL: ~25 hours
+######################################################
+2015-12-02: 1.5 hour
+	Finished LaserTest1.ino (attempt laser control via serial).
+
+2015-12-03: 1 hours + (1:30pm - 7:00pm) = 6.5 hours
+	Extended wires
+	Checked x, y1, y2 steppers (all good) separately
+
+2015-12-04: 1 hour
+	Made pen holder for X carriage (version 1)
+	Checked laser: 20mW won’t do it.
+
+2015-12-05: 1 hour + (2:30pm - 4:30pm) + (6:30pm - 9pm) 
+	CA meeting
+	Finished LaserCutter12.py
+
+2015-12-06: 12pm - 6pm
+	Finished LaserCutter13.py
+
+2015-12-07: 2 hours + (4:30pm - 7:00pm)
+	Finished LaserCutter14.py
+
+2015-12-08: 1 hour + (1:30pm - 8pm) + (10pm - 11pm)
+	
+2015-12-09: 2.5 hours (until 12pm) + 1 hour + (6pm - 11pm) 
+	Finished LaserCutter15.py
+	Made videos
+	Made readme file
+	Updating storyboard
+
+DELIVERABLE 3:###################################
+	SUBTOTAL: ~40 hours
+######################################################
+######################################################
+
+GRAND TOTAL: ~90 hours 
+	(+ time spent starting hardware during mid-semester break at robotics club hackathon)

@@ -1,0 +1,108 @@
+Resources for Term Project: Laser Cutter
+Larisa Thorne (lthorne), Section A
+
+####################################################################################
+
+This is most of my research, and is included for completeness. I wrote all my own code (with the exception of some of the run function, which I noted in the code).
+
+####################################################################################
+HARDWARE:
+########
+
+Example Instructable: MicroSlice
+	http://www.instructables.com/id/MicroSlice-A-tiny-Arduino-laser-cutter/?ALLSTEPS
+
+Download Arduino:
+	https://www.arduino.cc/en/Guide/MacOSX
+
+Instructables on interfacing Python and Arduino with pyserial:
+	http://www.instructables.com/id/Interface-Python-and-Arduino-with-pySerial/
+
+^ code in Python 2, didn’t work. Use: http://playground.arduino.cc/Interfacing/Python
+
+Best instructable:
+	http://www.instructables.com/id/Arduino-Python-Communication-via-USB/?ALLSTEPS
+
+Similar application: 
+	http://www.meccanismocomplesso.org/en/arduino-tutorial-serial-data-actuator/
+
+Maybe import library?
+	http://playground.arduino.cc/Main/SerialServo
+
+For stepper motors later:
+	https://learn.adafruit.com/adafruit-arduino-lesson-16-stepper-motors?view=all
+
+Stepper motor with Arduino:
+	http://www.instructables.com/id/Controlling-a-Stepper-Motor-with-an-Arduino/?ALLSTEPS
+
+ADAFRUIT MOTOR SHIELD v2.3 documentation:
+	https://learn.adafruit.com/downloads/pdf/adafruit-motor-shield-v2-for-arduino.pdf
+	https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino/install-software
+	https://www.youtube.com/watch?v=2amguZlxZNc
+
+Stepper motor itself: 4 wire bipolar stepper.
+	http://www.adafruit.com/product/324
+
+Laser focusing:
+	http://www.newport.com/Focusing-and-Collimating/141191/1033/content.aspx
+
+Limit switches:
+	https://www.arduino.cc/en/Tutorial/Switch
+
+Ada fruit shield stacking:
+	https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino/stacking-shields
+
+Laser power:
+	http://laserpointerforums.com/f45/what-mw-required-burn-paper-pop-balloons-light-match-any-specific-laser-58903.html
+
+More serial stuff:
+	http://forums.trossenrobotics.com/tutorials/how-to-diy-128/complete-control-of-an-arduino-via-serial-3300/
+
+####################################################################################
+SOFTWARE:
+########
+
+PIL tutorial:
+http://effbot.org/imagingbook/overview.htm
+
+Pillow pixel access:
+http://pillow.readthedocs.org/en/3.0.x/reference/PixelAccess.html
+
+Pillow/PIL pixel color format solution:
+http://stackoverflow.com/questions/11064786/get-pixels-rgb-using-pil
+
+Pillow/PIL create new bitmap:
+http://pillow.readthedocs.org/en/3.0.x/reference/ImageTk.html
+
+	“Constructing images:”
+	http://pillow.readthedocs.org/en/3.0.x/reference/Image.html?highlight=create
+
+	Additional explanation on parameters:
+	http://effbot.org/imagingbook/image.htm
+
+PIL ImageDraw module:
+http://effbot.org/imagingbook/imagedraw.htm
+
+PIL ImageFont module:
+http://effbot.org/imagingbook/imagefont.htm
+
+Tkinter dialog box:
+	http://www.python-course.eu/tkinter_dialogs.php
+
+Tkinter button help:
+	http://stackoverflow.com/questions/11980812/how-do-you-create-a-button-on-a-tkinter-canvas
+
+GUI design advice:
+	https://en.wikibooks.org/wiki/GUI_Design_Principles
+
+Text file manipulation:
+	http://stackoverflow.com/questions/18533621/creating-a-new-text-file-with-python
+	https://docs.python.org/3/library/functions.html#open
+
+Tk message box:
+	http://www.tutorialspoint.com/python/tk_messagebox.htm
+
+Colors:
+	http://cs.smith.edu/dftwiki/index.php/Color_Charts_for_TKinter
+
+
