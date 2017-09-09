@@ -82,3 +82,17 @@ body {
     box-shadow: 0 0 5px #888;
 }
 
+#currentWorkProjects {
+    background-color: rgb(255,255,255);
+    position: relative;
+    margin-left: 40px;
+    float:left;
+    padding-bottom: 20px;
+
+}
+
+#currentWorkProjectsHTML {
+    background-color: rgb(255,255,255);
+    position: relative;
+    float:left; 
+}
